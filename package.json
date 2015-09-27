@@ -1,0 +1,25 @@
+{
+  "name": "css-global-values",
+  "version": "1.0.0",
+  "description": "List of global, CSS-wide property values.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmao/css-global-values.git"
+  },
+  "keywords": [
+    "css",
+    "global",
+    "property",
+    "values"
+  ],
+  "author": "Jed Mao <jedmao@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/css-global-values/issues"
+  },
+  "homepage": "https://github.com/jedmao/css-global-values#readme"
+}
