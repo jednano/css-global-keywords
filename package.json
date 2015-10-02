@@ -1,5 +1,5 @@
 {
-  "name": "css-global-values",
+  "name": "css-global-keywords",
   "version": "1.0.0",
   "description": "List of global, CSS-wide property values.",
   "main": "index.json",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jedmao/css-global-values.git"
+    "url": "git+https://github.com/jedmao/css-global-keywords.git"
   },
   "keywords": [
     "css",
@@ -19,7 +19,7 @@
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jedmao/css-global-values/issues"
+    "url": "https://github.com/jedmao/css-global-keywords/issues"
   },
-  "homepage": "https://github.com/jedmao/css-global-values#readme"
+  "homepage": "https://github.com/jedmao/css-global-keywords#readme"
 }

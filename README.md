@@ -1,6 +1,6 @@
-# css-global-values
+# css-global-keywords
 
-List of global, CSS-wide property values:
+List of global, CSS-wide keywords:
 - [`initial`](https://developer.mozilla.org/en-US/docs/Web/CSS/initial)
 - [`inherit`](https://developer.mozilla.org/en-US/docs/Web/CSS/inherit)
 - [`unset`](https://developer.mozilla.org/en-US/docs/Web/CSS/unset)
@@ -8,12 +8,12 @@ List of global, CSS-wide property values:
 ## Installation
 
 ```
-npm install css-global-values [--save[-dev]]
+npm install css-global-keywords [--save[-dev]]
 ```
 
 ## Usage
 
 ```js
-var cssGlobalValues = require('css-global-values');
-cssGlobalValues; // ['initial', 'inherit', 'unset']
+var cssGlobalKeywords = require('css-global-keywords');
+cssGlobalKeywords; // ['initial', 'inherit', 'unset']
 ```
