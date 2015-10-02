@@ -1,7 +1,7 @@
 {
   "name": "css-global-keywords",
-  "version": "1.0.0",
-  "description": "List of global, CSS-wide property values.",
+  "version": "1.0.1",
+  "description": "List of CSS global keywords.",
   "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,7 @@
   "keywords": [
     "css",
     "global",
-    "property",
-    "values"
+    "keywords"
   ],
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
